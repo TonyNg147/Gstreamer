@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/GSTREAMER.dir/main.o  -o GSTREAMER  -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 

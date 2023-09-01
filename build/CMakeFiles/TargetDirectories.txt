@@ -1,0 +1,3 @@
+/home/tony/Desktop/CPP/Gstreamer/build/CMakeFiles/rebuild_cache.dir
+/home/tony/Desktop/CPP/Gstreamer/build/CMakeFiles/edit_cache.dir
+/home/tony/Desktop/CPP/Gstreamer/build/CMakeFiles/GSTREAMER.dir
