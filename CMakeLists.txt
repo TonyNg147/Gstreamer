@@ -1,5 +1,8 @@
 project(GSTREAMER)
-add_executable(${PROJECT_NAME} main.cpp)
+set(SOURCES main.cpp
+            Controller/Controller.cpp
+)
+add_executable(${PROJECT_NAME} ${SOURCES})
 find_package(PkgConfig REQUIRED)
 if(PKGCONFIG_FOUND)
     pkg_search_module(GST REQUIRED gstreamer-1.0)
